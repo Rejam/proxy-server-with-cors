@@ -1,0 +1,15 @@
+{
+  "name": "proxy_server_with_cors",
+  "version": "1.0.0",
+  "description": "Own cors server for personal projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index,js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan James",
+  "license": "MIT",
+  "dependencies": {
+    "cors-anywhere": "^0.4.1"
+  }
+}
